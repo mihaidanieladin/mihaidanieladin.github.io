@@ -6,13 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
-<url>
-  <loc>http://mihai-daniel-adin.tk/</loc>
-  <lastmod>2020-03-10T20:00:50+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
   <loc>http://mihai-daniel-adin.tk/index.html</loc>
   <lastmod>2020-03-10T20:00:50+00:00</lastmod>
   <priority>0.80</priority>
